@@ -1,0 +1,16 @@
+bmx aradului 1 
+bmx lipovei 2 
+bmx complex 1 
+bmx centru 5 
+cursiera aradului 2 
+cursiera lipovei 1 
+cursiera complex 1 
+cursiera centru 1 
+munte lipovei 2 
+munte complex 1 
+munte centru 2 
+munte aradului 3 
+oras aradului 2 
+oras lipovei 1 
+oras complex 1 
+oras centru 3 
